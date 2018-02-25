@@ -1,5 +1,7 @@
 # Dependencies
 markdown:         redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 # highlighter:      pygments
 highlighter:      rouge
 
@@ -8,15 +10,16 @@ highlighter:      rouge
 # relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /tjcompsci.github.io/
+title:            TJ CompSci
+tagline:          'All things CS @ TJHSST'
+description:      'All things CS @ TJHSST'
+url:              http://tjcompsci.github.io
+baseurl:          /
+
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Ria Galanos'
+  url:            https://twitter.com/cscheerleader
 
 plugins: 		 
 
