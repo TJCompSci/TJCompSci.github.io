@@ -48,4 +48,4 @@ title: Faculty
 
 **John Zacharias**<br>
 [jbzacharias@fcps.edu](mailto:jbzacharias@fcps.edu)<br>
-*Computer Vision, Artificial Intelligence 1/2, Computer Systems Senior Research*<br><br>
+*Computer Vision, Artificial Intelligence 1/2, Computer Systems Senior Research*
