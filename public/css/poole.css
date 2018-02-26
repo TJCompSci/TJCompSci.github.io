@@ -138,7 +138,8 @@ hr {
 }
 
 abbr {
-  font-size: 85%;
+  /*font-size: 85%;*/
+  font-size: 75%;
   font-weight: bold;
   color: #555;
   text-transform: uppercase;
