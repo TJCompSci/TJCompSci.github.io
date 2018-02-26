@@ -2,7 +2,6 @@
 layout: page
 title: Faculty
 ---
-<br>
 
 [tjhsstcompsci@fcps.edu](mailto:tjhsstcompsci@fcps.edu)
 <br><br>
