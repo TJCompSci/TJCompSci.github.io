@@ -2,11 +2,10 @@
 layout: page
 title: Faculty
 ---
-\ 
-
+<br><br>
 
 [tjhsstcompsci@fcps.edu](mailto:tjhsstcompsci@fcps.edu)
-
+<br><br>
 
 Malcolm Eckel
 [mceckel@fcps.edu](mailto:mceckel@fcps.edu)
