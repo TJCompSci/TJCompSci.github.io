@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Local Events
 ---
 
 <p class="message">
