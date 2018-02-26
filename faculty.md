@@ -8,11 +8,11 @@ title: Faculty
 
 **Marion Billington**<br>
 [mlbillington@fcps.edu](mailto:mlbillington@fcps.edu)<br>
-*Foundations of Computer Science, AP Computer Science A with Data Structures*<br><br>
+*Foundations of Computer Science, AP Computer Science A with Data Structures*<br>
 
 **Malcolm Eckel**<br>
 [mceckel@fcps.edu](mailto:mceckel@fcps.edu)<br>
-*Foundations of Computer Science, AP Computer Science A with Data Structures, Cryptography*<br><br>
+*Foundations of Computer Science, AP Computer Science A with Data Structures, Cryptography*<br>
 
 **Peter Gabor**<br>
 [pcgabor@fcps.edu](pcgabor@fcps.edu)<br>
