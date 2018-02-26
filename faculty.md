@@ -7,7 +7,7 @@ title: Faculty
 [tjhsstcompsci@fcps.edu](mailto:tjhsstcompsci@fcps.edu)
 <br><br>
 
-Marion Billington<br>
+**Marion Billington**<br>
 [mlbillington@fcps.edu](mailto:mlbillington@fcps.edu)<br>
 *Foundations of Computer Science, AP Computer Science A with Data Structures*<br><br>
 
