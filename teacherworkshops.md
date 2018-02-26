@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Internships
+title: Teacher Workshops
 ---
 
 <p class="message">
