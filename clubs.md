@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Clubs
 ---
 
 <p class="message">
