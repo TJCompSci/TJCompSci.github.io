@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Clubs
+title: Cool Stuff
 ---
 
 <p class="message">
