@@ -7,9 +7,9 @@ Eighth Period is an integral part of the TJ school day.  It is an opportunity fo
 
 We offer many of the same activities and clubs that a traditional school offers, as well as some that can only be offered because of the unique technical laboratories and nature of the school.<br>
 
-In 2017-18, there are more than 180 clubs and activities.  While there also exist clubs that involve technology and robotics, the following nine activities are primarily computing focused.  
+In 2017-18, there are more than 180 clubs and activities.  While there also exist clubs that involve technology and robotics, the following nine activities are primarily computing focused.  <br>
 
-## Clubs<br><br>
+## Clubs
 
 **Coding Lady Colonials**<br>
 
