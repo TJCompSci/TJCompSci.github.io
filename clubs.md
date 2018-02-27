@@ -9,7 +9,7 @@ We offer many of the same activities and clubs that a traditional school offers,
 
 In 2017-18, there are more than 180 clubs and activities.  While there also exist clubs that involve technology and robotics, the following nine activities are primarily computing focused.  
 
-## Clubs<br>
+## Clubs<br><br>
 
 **Coding Lady Colonials**<br>
 
@@ -23,13 +23,13 @@ In 2017-18, there are more than 180 clubs and activities.  While there also exis
 CSC is designed to introduce students to and pique their interests in a field which is readily gaining importance in an increasingly   technology-dependent world. Most 8th period blocks are lectures on security topics chosen by club attendees. Occasionally, blocks may  be spent participating in CTFs, watching relevant videos, or listening to guest speakers. 
 </p>
 
-**Dev Club**
-**Machine Learning Club**
-**Mobile Apps Club**
-**Sys Admins**
+**Dev Club**<br>
+**Machine Learning Club**<br>
+**Mobile Apps Club**<br>
+**Sys Admins**<br>
 
 ## Activities
 
-**[HackTJ](http://www.hacktj.org)**
-**TJ CTF**
+**[HackTJ](http://www.hacktj.org)**<br>
+**TJ CTF**<br>
 **[TJ Intermediate Open in Informatics](https://activities.tjhsst.edu/tjioi/)**
