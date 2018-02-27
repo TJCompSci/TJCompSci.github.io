@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Summer Camps
+title: Summer Opportunities
 ---
 
 <p class="message">
