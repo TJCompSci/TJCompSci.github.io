@@ -31,3 +31,22 @@ In 2017-18, there are more than 180 clubs and activities.  While there also exis
 | ![LogoHackTJ](/images/hacktjmedium.png)     | ![LogoIOI](/images/IOImedium.png) | ![LogoTJCTF](/images/CTFmedium.png) |
 | **[HackTJ](http://www.hacktj.org)**       | **[TJ Intermediate Open<br>in Informatics](https://activities.tjhsst.edu/tjioi/)** | **[TJ CTF](https://activities.tjhsst.edu/tjioi/)** |
 
+<table>
+  <tbody>
+    <tr>
+      <td>![LogoHackTJ](/images/hacktjmedium.png) </td>
+      <td>![LogoIOI](/images/IOImedium.png)</td>
+      <td>![LogoTJCTF](/images/CTFmedium.png)</td>
+    </tr>
+    <tr>
+      <td>**[HackTJ](http://www.hacktj.org)**</td>
+      <td>**[TJ Intermediate Open<br>in Informatics](https://activities.tjhsst.edu/tjioi/)**</td>
+      <td>**[TJ CTF](https://activities.tjhsst.edu/tjioi/)**</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+
