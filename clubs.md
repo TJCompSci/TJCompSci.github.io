@@ -27,6 +27,6 @@ In 2017-18, there are more than 180 clubs and activities.  While there also exis
 **Sys Admins**<br>
 
 ## Activities
-![LogoHackTJ](/images/hacktjsmall.png) **[HackTJ](http://www.hacktj.org)**<br>
+![LogoHackTJ](/images/hacktjtiny.png) **[HackTJ](http://www.hacktj.org)**<br>
 **TJ CTF**<br>
-**[TJ Intermediate Open in Informatics](https://activities.tjhsst.edu/tjioi/)**
+![LogoIOI](/images/IOItiny.png) **[TJ Intermediate Open in Informatics](https://activities.tjhsst.edu/tjioi/)**
