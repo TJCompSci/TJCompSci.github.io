@@ -17,7 +17,9 @@ In 2017-18, there are more than 180 clubs and activities.  While their also exis
     * Intermediate Computing Team
     * Senior Computing Team
 * [Computer Security Club](https://activities.tjhsst.edu/csc/)  
-   * CSC is designed to introduce students to and pique their interests in a field which is readily gaining importance in an increasingly    technology-dependent world. Most 8th period blocks are lectures on security topics chosen by club attendees. Occasionally, blocks may be spent participating in CTFs, watching relevant videos, or listening to guest speakers. 
+   <p class="message">
+       CSC is designed to introduce students to and pique their interests in a field which is readily gaining importance in an increasingly       technology-dependent world. Most 8th period blocks are lectures on security topics chosen by club attendees. Occasionally, blocks may       be spent participating in CTFs, watching relevant videos, or listening to guest speakers. 
+   </p>
 * Dev Club
 * Machine Learning Club
 * Mobile Apps Club
