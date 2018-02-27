@@ -7,16 +7,16 @@ Eighth Period is an integral part of the TJ school day.  It is an opportunity fo
 
 We offer many of the same activities and clubs that a traditional school offers, as well as some that can only be offered because of the unique technical laboratories and nature of the school.<br>
 
-In 2017-18, there are more than 180 clubs and activities, with the following nine activities being primarily computing focused.<br>
+In 2017-18, there are more than 180 clubs and activities.  While their also exist clubs that involve technology and robotics, the following nine activities are primarily computing focused.  
 
 ## Clubs
 
-* Coding Lady Colonials [Jekyll](http://jekyllrb.com)
+* Coding Lady Colonials 
 * Competitive Computing Teams
     * Freshman Computing Team
     * Intermediate Computing Team
     * Senior Computing Team
-* CyberSecurity Club    
+* Computer Security Club    
 * Dev Club
 * Machine Learning Club
 * Mobile Apps Club
@@ -26,4 +26,4 @@ In 2017-18, there are more than 180 clubs and activities, with the following nin
 
 * [HackTJ](http://www.hacktj.org)
 * TJ CTF
-* TJ Intermediate Open in Informatics 
+* [TJ Intermediate Open in Informatics](https://activities.tjhsst.edu/tjioi/)
