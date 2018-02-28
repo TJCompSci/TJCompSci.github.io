@@ -13,7 +13,7 @@ In 2017-18, there are more than 180 clubs and activities.  While there also exis
 
 **Coding Lady Colonials**<br>
 
-**Competitive Computing Teams**<br>
+**Competitive Computing Teams**<br><br>
 *Freshman Computing Team*
 > The Frosh 'Puter Team's purpose is to promote problem-solving skills with computers and to participate in the American Computer Science League competitions and other computer contests.<br>
 
