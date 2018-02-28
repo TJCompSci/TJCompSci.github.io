@@ -21,7 +21,7 @@ In 2017-18, there are more than 180 clubs and activities.  While there also exis
 > ICT's objective is to practice and enhance problem-solving skills involving programming.  Team members compete in several contests, including USACO, Topcoder, and ACM on the national/international level.
 
 *Senior Computing Team*
-> Members of SCT practice and enhance problem-solving skills involving programming.  They compete in several contests, including USACO, Topcoder, and ACM on the national/international level.
+> SCT's objective is to practice and enhance problem-solving skills in programming. We focus on theoretical computer science concepts involving algorithms and data structures, convering topics ranging from dynamic programming to binary indexed trees. SCT competes in several contests, including USACO and Codeforecs, on the national and international level.
 
 **[Computer Security Club](https://activities.tjhsst.edu/csc/)**  
 > CSC is designed to introduce students to and pique their interests in a field which is readily gaining importance in an increasingly   technology-dependent world. Most 8th period blocks are lectures on security topics chosen by club attendees. Occasionally, blocks may  be spent participating in CTFs, watching relevant videos, or listening to guest speakers. 
