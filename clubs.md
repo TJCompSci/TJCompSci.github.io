@@ -15,12 +15,16 @@ In 2017-18, there are more than 180 clubs and activities.  While there also exis
 
 **Competitive Computing Teams**
 * Freshman Computing Team
+> The Frosh 'Puter Team's purpose is to promote problem-solving skills with computers and to participate in the American Computer Science League competitions and other computer contests.
 * Intermediate Computing Team
-* Senior Computing Team<br>
+> ICT's objective is to practice and enhance problem-solving skills involving programming.  Team members compete in several contests, including USACO, Topcoder, and ACM on the national/international level.
+* Senior Computing Team
+> Members of SCT practice and enhance problem-solving skills involving programming.  They compete in several contests, including USACO, Topcoder, and ACM on the national/international level.
 
 **[Computer Security Club](https://activities.tjhsst.edu/csc/)**  
 > CSC is designed to introduce students to and pique their interests in a field which is readily gaining importance in an increasingly   technology-dependent world. Most 8th period blocks are lectures on security topics chosen by club attendees. Occasionally, blocks may  be spent participating in CTFs, watching relevant videos, or listening to guest speakers. 
 
+**Cmoputer Vision Club**<br>
 **Dev Club**<br>
 **Machine Learning Club**<br>
 **Mobile Apps Club**<br>
