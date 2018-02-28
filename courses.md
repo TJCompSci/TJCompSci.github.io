@@ -3,4 +3,9 @@ layout: page
 title: Courses
 ---
 
-Placeholder.
+Course descriptions.
+Flow Chart
+Foundations Curriculum
+calendar 
+placement test info
+
