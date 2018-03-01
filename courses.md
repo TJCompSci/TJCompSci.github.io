@@ -13,6 +13,34 @@ TJ offers a placement test each year for students who wish to place out of Found
 
 ## Course Descriptions (link to Foundations)
 
+Foundations of Computer Science
+
+Foundations of Computer Science Accelerated
+
+AP Computer Science A with Data Structures
+
+Artificial Intelligence 1
+
+Artificial Intelligence 2
+
+Computer Vision 1
+
+Computer Vision 2
+
+Parallel Computing 1
+
+Parallel Computing 2
+
+Mobile Applications Development
+
+Web Applications Development
+
+Computer Systems Laboratory Senior Research
+
+Mobile and Web Applications Development Labatory Senior Research
+
+
+
 
  
 
