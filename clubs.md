@@ -29,6 +29,7 @@ In 2017-18, there are more than 180 clubs and activities.  While there also exis
 **Computer Vision Club**<br>
 
 **Dev Club**<br>
+> Dev Club discusses Web development from front end to back end and holds occasional internal contests to show off students’ applications.
 
 **[Machine Learning Club](http://tjmachinelearning.com)**
 > TJ Machine Learning Club explores machine learning and artificial intelligence, covering topics from decision trees to reinforcement learning. We also hold weekly competitions using real-world data and as a community outreach program, support ML research at TJ. All our lectures, presentation, sample code, and competitions are free for anyone to use on our website.
