@@ -85,7 +85,8 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
   line-height: 1.25;
   /*color: #313131;*/
-  color: #003a62;
+  color: #c51230;  /*TJ red*/
+  /*color: #003a62;*/
   text-rendering: optimizeLegibility;
 }
 h1 {
