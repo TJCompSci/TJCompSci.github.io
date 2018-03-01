@@ -57,8 +57,3 @@ TJ offers a placement test each year for students who wish to place out of Found
 
 **Mobile and Web Applications Development Senior Mentorship**<br>
 > The mentorship program is one of the options available for students to meet the senior science and technology research graduation requirement. The program provides opportunities for selected seniors to work with accomplished scientists, engineers, and other professionals in firms or laboratories across the greater Washington, D.C. area. The students must plan, implement, document, and present projects chosen in consultation with these mentors and which coincide with the TJHSST technology laboratories. Students who seek this mentorship option must first be selected for one of the research laboratories. They also complete a mentorship application that includes obtaining two teacher recommendations (at least one from a laboratory science or technology teacher; the other from a mathematics or computer science teacher) and write a project brief which outlines the type of research in which they are interested. If selected, a student is assigned a mentor in a specific field that relates to his/her chosen laboratory. Students are released for part of the school day to work 10-15 hours per week at their mentorship locations. Students receive one credit for 180 hours of mentorship in one semester and two credits for 360 hours in two semesters. TJHSST technology laboratory directors and the mentorship coordinator monitor the students in their fields of interest. Course requirements include a project proposal, weekly log, oral presentation, project summary, final paper, and poster display board.  Prerequisite:  AP Computer Science A with Data Structures
-
-
- 
-
-
