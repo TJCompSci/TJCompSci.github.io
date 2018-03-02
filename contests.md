@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contests
-permalink: contests/
+permalink: /contests/
 ---
 
 ## Programming Competitions
