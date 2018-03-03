@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Awards
-permalink: awards/
+permalink: /awards/
 ---
 
 Placeholder.
