@@ -36,6 +36,8 @@ plugins:
 - jekyll-gist
 
 
+include: ["_pages"]
+
 paginate:         5
 
 # Custom vars
