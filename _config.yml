@@ -16,8 +16,8 @@ kramdown:
     css_class: 'highlight'
 
 # Permalinks
-# permalink:        pretty
-# relative_permalinks: true
+permalink:        pretty
+relative_permalinks: true
 
 # Setup
 title:            TJ CompSci
