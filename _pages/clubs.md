@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Clubs & Activities
+permalink: clubs
 ---
 
 Eighth Period is an integral part of the TJ school day.  It is an opportunity for students to get academic support,  explore a new interest, pursue a passion, or socialize with friends in a supervised activity. Students may decide to participate in the same clubs or activities on a regular basis, or participate in a wide variety.<br>
