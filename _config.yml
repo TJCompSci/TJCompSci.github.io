@@ -3,7 +3,7 @@
 #redcarpet:
 #  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 # highlighter:      pygments
-#highlighter:      rouge
+# highlighter:      rouge
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
