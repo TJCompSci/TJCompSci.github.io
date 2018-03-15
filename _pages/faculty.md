@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Faculty
+permalink: faculty
 ---
 
 [tjhsstcompsci@fcps.edu](mailto:tjhsstcompsci@fcps.edu)
