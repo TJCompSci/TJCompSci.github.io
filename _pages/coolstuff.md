@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Cool Stuff
+permalink: coolstuff
 ---
 
 ## Links
